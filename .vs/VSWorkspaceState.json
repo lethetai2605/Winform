@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\setup sever",
+    "\\setup sever\\Setup2",
+    "\\setup sever\\Setup2\\Release",
+    "\\WindowsFormsAppCalendar",
+    "\\WindowsFormsAppCalendar\\WindowsFormsAppCalendar"
+  ],
+  "SelectedNode": "\\WindowsFormsAppCalendar\\WindowsFormsAppCalendar\\Form1.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,11 @@
+C:\Users\Tai\Desktop\Calendar\WindowsFormsAppCalendar\WindowsFormsAppCalendar\bin\Debug\WindowsFormsAppCalendar.exe.config
+C:\Users\Tai\Desktop\Calendar\WindowsFormsAppCalendar\WindowsFormsAppCalendar\bin\Debug\WindowsFormsAppCalendar.exe
+C:\Users\Tai\Desktop\Calendar\WindowsFormsAppCalendar\WindowsFormsAppCalendar\bin\Debug\WindowsFormsAppCalendar.pdb
+C:\Users\Tai\Desktop\Calendar\WindowsFormsAppCalendar\WindowsFormsAppCalendar\obj\Debug\WindowsFormsAppCalendar.ADayJob.resources
+C:\Users\Tai\Desktop\Calendar\WindowsFormsAppCalendar\WindowsFormsAppCalendar\obj\Debug\WindowsFormsAppCalendar.DailyPlan.resources
+C:\Users\Tai\Desktop\Calendar\WindowsFormsAppCalendar\WindowsFormsAppCalendar\obj\Debug\WindowsFormsAppCalendar.Form1.resources
+C:\Users\Tai\Desktop\Calendar\WindowsFormsAppCalendar\WindowsFormsAppCalendar\obj\Debug\WindowsFormsAppCalendar.Properties.Resources.resources
+C:\Users\Tai\Desktop\Calendar\WindowsFormsAppCalendar\WindowsFormsAppCalendar\obj\Debug\Calender.csproj.GenerateResource.cache
+C:\Users\Tai\Desktop\Calendar\WindowsFormsAppCalendar\WindowsFormsAppCalendar\obj\Debug\Calender.csproj.CoreCompileInputs.cache
+C:\Users\Tai\Desktop\Calendar\WindowsFormsAppCalendar\WindowsFormsAppCalendar\obj\Debug\WindowsFormsAppCalendar.exe
+C:\Users\Tai\Desktop\Calendar\WindowsFormsAppCalendar\WindowsFormsAppCalendar\obj\Debug\WindowsFormsAppCalendar.pdb
